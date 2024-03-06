@@ -2,7 +2,7 @@
 
 ## Unreleased
 
-- Wagtail 5.2 and Python 3.12 upgrade
+- Wagtail 5.2+ and Python 3.12 upgrade
 
 ## 1.0.0 (2023-07-25)
 

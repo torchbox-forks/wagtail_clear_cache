@@ -18,11 +18,11 @@ setup(
         "Environment :: Web Environment",
         "Framework :: Django",
         "Framework :: Django :: 3.2",
-        "Framework :: Django :: 4.1",
         "Framework :: Django :: 4.2",
+        "Framework :: Django :: 5.0",
         "Framework :: Wagtail",
-        "Framework :: Wagtail :: 4",
         "Framework :: Wagtail :: 5",
+        "Framework :: Wagtail :: 6",
         "Programming Language :: Python",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
@@ -35,7 +35,7 @@ setup(
     ],
     keywords="development",
     install_requires=[
-        "wagtail>=4.1",
+        "wagtail>=5.2",
     ],
     extras_require={"develop": ["black", "flake8", "isort"]},
 )
