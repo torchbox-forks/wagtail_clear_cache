@@ -32,9 +32,9 @@ You can run `make lint` to format and lint all files.
 
 This package has been tested with the following versions of Wagtail:
 
-- Wagtail 5.2+
-- Python 3.8+
-- Django 3.2+
+- Wagtail 6.3+
+- Python 3.9+
+- Django 4.2+
 
 ## Todos
 
